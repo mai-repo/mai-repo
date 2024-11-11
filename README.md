@@ -51,4 +51,11 @@ Here are some ideas to get you started:
 - **[Mai_BlogApp](https://github.com/Maithanhceu/techtonica_assignments-/tree/db2cf0e3f1005462d039833ac65bd55d40d778fc/mai_blog)**: An application where I save postcards from places I visited during my time at Techtonica. 
 
 
+
 ### Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mai-th2024/)
+  
+### Fun Fact
+
+- Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I plan to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
