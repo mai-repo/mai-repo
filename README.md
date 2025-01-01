@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there -- I'm ✨ Mai! 🧚‍♀️✨ 
 
-🌱 I’m a software engineer in training at Techtonica with a passion for creating accessible features for people with disabilities.  
+🌱 I’m a software engineer and returning graduate at Techtonica with a passion for creating accessible features for people with disabilities.  
 💖 I’m currently working on a dating platform that is exclusively for creating events centered on dating and meeting people in real life.  
 🤔 I’m looking for help with testing my dating application and platform!
 
