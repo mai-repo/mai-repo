@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 ### 🍜✨ [VietSpark](https://vietspark-v1.vercel.app/)  
 Developed the front-end UI for an interactive cooking platform using Svelte, JavaScript, and Tailwind CSS. Integrated OpenAI GPT for AI-powered recipe suggestions while optimizing performance and accessibility. Proudly built by an all-Vietnamese engineering team.➡️ [**Click here to try it out!**](https://vietspark-v1.vercel.app/)  
 
-### 💖 [DateSpot](https://github.com/Maithanhceu/DateSpot.git)  
-An app where users can create dating-centered events to meet IRL.  
-➡️ [**Click here to check out the repo!**](https://github.com/Maithanhceu/DateSpot.git)
+### 💖 [Mai Code Challenge](https://github.com/Maithanhceu/DateSpot.git)  
+Mai Code Challenges simplifies coding interview prep by providing distraction-free, randomly generated coding challenges and feedback—mimicking real interview unpredictability without the clutter of traditional platforms.➡️ [**Click here to check out the repo!**](https://github.com/mai-repo/Mai-Code-Challenges.git)
 
 ### Let's Connect!
 
