@@ -54,6 +54,4 @@ Mai Code Challenges simplifies coding interview prep by providing distraction-fr
 
 - Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I plan to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
 
-![mai-repo's Stats](https://github-readme-stats.vercel.app/api?username=mai-repo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ttmail)
